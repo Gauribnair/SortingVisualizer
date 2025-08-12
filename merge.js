@@ -1,4 +1,5 @@
 function MSort(){
+    
     c_delay=0;
 
     bestt.innerText=" O(nlogn)";
